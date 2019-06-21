@@ -1,0 +1,135 @@
+[
+    {
+        "model": "Movies.ContentRate",
+        "pk": 1,
+        "fields": {
+            "contentrate_name": "PG-13"
+        }
+    },
+    {
+        "model": "Movies.ContentRate",
+        "pk": 2,
+        "fields": {
+            "contentrate_name": ""
+        }
+    },
+    {
+        "model": "Movies.ContentRate",
+        "pk": 3,
+        "fields": {
+            "contentrate_name": "PG"
+        }
+    },
+    {
+        "model": "Movies.ContentRate",
+        "pk": 4,
+        "fields": {
+            "contentrate_name": "G"
+        }
+    },
+    {
+        "model": "Movies.ContentRate",
+        "pk": 5,
+        "fields": {
+            "contentrate_name": "R"
+        }
+    },
+    {
+        "model": "Movies.ContentRate",
+        "pk": 6,
+        "fields": {
+            "contentrate_name": "TV-14"
+        }
+    },
+    {
+        "model": "Movies.ContentRate",
+        "pk": 7,
+        "fields": {
+            "contentrate_name": "TV-PG"
+        }
+    },
+    {
+        "model": "Movies.ContentRate",
+        "pk": 8,
+        "fields": {
+            "contentrate_name": "TV-MA"
+        }
+    },
+    {
+        "model": "Movies.ContentRate",
+        "pk": 9,
+        "fields": {
+            "contentrate_name": "TV-G"
+        }
+    },
+    {
+        "model": "Movies.ContentRate",
+        "pk": 10,
+        "fields": {
+            "contentrate_name": "Not Rated"
+        }
+    },
+    {
+        "model": "Movies.ContentRate",
+        "pk": 11,
+        "fields": {
+            "contentrate_name": "Unrated"
+        }
+    },
+    {
+        "model": "Movies.ContentRate",
+        "pk": 12,
+        "fields": {
+            "contentrate_name": "Approved"
+        }
+    },
+    {
+        "model": "Movies.ContentRate",
+        "pk": 13,
+        "fields": {
+            "contentrate_name": "TV-Y"
+        }
+    },
+    {
+        "model": "Movies.ContentRate",
+        "pk": 14,
+        "fields": {
+            "contentrate_name": "NC-17"
+        }
+    },
+    {
+        "model": "Movies.ContentRate",
+        "pk": 15,
+        "fields": {
+            "contentrate_name": "X"
+        }
+    },
+    {
+        "model": "Movies.ContentRate",
+        "pk": 16,
+        "fields": {
+            "contentrate_name": "TV-Y7"
+        }
+    },
+    {
+        "model": "Movies.ContentRate",
+        "pk": 17,
+        "fields": {
+            "contentrate_name": "GP"
+        }
+    },
+    {
+        "model": "Movies.ContentRate",
+        "pk": 18,
+        "fields": {
+            "contentrate_name": "Passed"
+        }
+    },
+    {
+        "model": "Movies.ContentRate",
+        "pk": 19,
+        "fields": {
+            "contentrate_name": "M"
+        }
+    }
+]

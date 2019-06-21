@@ -1,0 +1,23 @@
+[
+    {
+        "model": "Movies.Color",
+        "pk": 1,
+        "fields": {
+            "color_name": "Color"
+        }
+    },
+    {
+        "model": "Movies.Color",
+        "pk": 2,
+        "fields": {
+            "color_name": ""
+        }
+    },
+    {
+        "model": "Movies.Color",
+        "pk": 3,
+        "fields": {
+            "color_name": " Black and White"
+        }
+    }
+]
